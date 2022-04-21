@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.General{
+    width: 60%;
+    height: 540px;
+    background-color: green;
+    margin: 5% auto;
+    outline: 30px solid orange;
+    border: 30px solid yellow;
+    padding: 3% 0% 0% 2%;
+   
+}
+.container img{
+    width: 100%;
+    height: 410px;
+    margin: 5% auto;
+}
+.container{
+    width: 90%;
+    background-color: gray;
+    
+}
